@@ -10,6 +10,8 @@ a { color:blue; text-decoration: none;}
     padding:15px;
     border-top: solid 1px #cdcdcd;
     border-bottom: solid 1px #cdcdcd;
+    display: flex;
+    justify-content: center;
 }
 .content {
     max-width: 1440px;
